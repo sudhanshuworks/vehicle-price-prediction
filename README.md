@@ -1,1 +1,1 @@
-# vehicle-price-pridiction
+# vehicle-price-prediction
